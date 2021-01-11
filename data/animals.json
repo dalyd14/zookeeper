@@ -108,6 +108,17 @@
         "loving"
       ],
       "id": "10"
+    },
+    {
+      "name": "Ping",
+      "species": "Panda Bear",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "loving"
+      ],
+      "id": "11"
     }
   ]
 }
